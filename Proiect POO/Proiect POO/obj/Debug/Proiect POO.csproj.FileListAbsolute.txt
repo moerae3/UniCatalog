@@ -1,0 +1,22 @@
+C:\Users\Pls Work\source\repos\Proiect POO\Proiect POO\bin\Debug\Proiect POO.exe.config
+C:\Users\Pls Work\source\repos\Proiect POO\Proiect POO\bin\Debug\Proiect POO.exe
+C:\Users\Pls Work\source\repos\Proiect POO\Proiect POO\bin\Debug\Proiect POO.pdb
+C:\Users\Pls Work\source\repos\Proiect POO\Proiect POO\obj\Debug\Proiect POO.csproj.AssemblyReference.cache
+C:\Users\Pls Work\source\repos\Proiect POO\Proiect POO\obj\Debug\Proiect POO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pls Work\source\repos\Proiect POO\Proiect POO\obj\Debug\Proiect_POO.Properties.Resources.resources
+C:\Users\Pls Work\source\repos\Proiect POO\Proiect POO\obj\Debug\Proiect POO.csproj.GenerateResource.cache
+C:\Users\Pls Work\source\repos\Proiect POO\Proiect POO\obj\Debug\Proiect POO.csproj.CoreCompileInputs.cache
+C:\Users\Pls Work\source\repos\Proiect POO\Proiect POO\obj\Debug\Proiect POO.exe
+C:\Users\Pls Work\source\repos\Proiect POO\Proiect POO\obj\Debug\Proiect POO.pdb
+C:\Users\Pls Work\source\repos\Proiect POO\Proiect POO\obj\Debug\Proiect_POO.Login.resources
+C:\Users\Pls Work\source\repos\Proiect POO\Proiect POO\obj\Debug\Proiect_POO.Dashboard.resources
+C:\Users\Pls Work\source\repos\Proiect POO\Proiect POO\obj\Debug\Proiect_POO.GrupePanel.resources
+C:\Users\Pls Work\source\repos\Proiect POO\Proiect POO\obj\Debug\Proiect_POO.DisciplinePanel.resources
+C:\Users\Pls Work\source\repos\Proiect POO\Proiect POO\obj\Debug\Proiect_POO.Degrees.resources
+C:\Users\Pls Work\source\repos\Proiect POO\Proiect POO\obj\Debug\Proiect_POO.StaffPanel.resources
+C:\Users\Pls Work\source\repos\Proiect POO\Proiect POO\obj\Debug\Proiect_POO.StudentsPanel.resources
+C:\Users\Pls Work\source\repos\Proiect POO\Proiect POO\obj\Debug\Proiect_POO.UsersPanel.resources
+C:\Users\Pls Work\source\repos\Proiect POO\Proiect POO\obj\Debug\Proiect_POO.PlanInvatamant.resources
+C:\Users\Pls Work\source\repos\Proiect POO\Proiect POO\obj\Debug\Proiect_POO.ProgrameDeStudii.resources
+C:\Users\Pls Work\source\repos\Proiect POO\Proiect POO\bin\Debug\ProjectDB.mdf
+C:\Users\Pls Work\source\repos\Proiect POO\Proiect POO\bin\Debug\ProjectDB_log.ldf
